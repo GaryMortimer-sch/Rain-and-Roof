@@ -1,0 +1,7 @@
+{
+  "name": "Rain & Roof Tracker",
+  "description": "A fun tool for children to measure roofs, track rainfall, and calculate how many toilet flushes they can save!",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
